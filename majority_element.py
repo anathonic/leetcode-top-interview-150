@@ -2,7 +2,7 @@ from typing import List
 
 
 class Solution(object):
-    def majorityElement(self, nums: List[int]):
+    def majorityElement(self, nums: List[int]) -> int:
         """
         :type nums: List[int]
         :rtype: int
